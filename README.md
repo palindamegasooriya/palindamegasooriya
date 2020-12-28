@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying for a degree of B.Sc(hons) in Information Technology in University of Moratuwa🏫
 - 👯 I’m looking to React js and Node js related projects
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/palindamegasooriya/) | [Gmail](www.palindamegasooriya95@gmail.com)
+- 📫 Email-palindamegasooriya95@gmail.com
 
 
 <p align="left">
