@@ -1,4 +1,4 @@
-# Hi, I'm Palinda Megasooriya 👋
+# Hi, I'm Palinda Megasooriya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently studying for a degree of B.Sc(hons) in Information Technology in University of Moratuwa🏫
 - 👯 I’m looking to React js and Node js related projects
