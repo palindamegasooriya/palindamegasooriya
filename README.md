@@ -8,10 +8,11 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/palindamegasooriya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
-<a href="https://www.facebook.com/palinda.megasooriya.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palindamit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/palinda.megasooriya.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/palindamegasooriya/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Instagram_svg-512.png" alt="Palinda Megasooriya" height="30" width="40" /></a>
+<a href="https" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Palinda Megasooriya" height="30" width="40" /></a>
 </p>
 
 
