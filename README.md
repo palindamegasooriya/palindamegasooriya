@@ -1,7 +1,7 @@
 # Hi, I'm Palinda Megasooriya 👋
 
 - 🌱 I’m currently studying for a degree of B.Sc(hons) in Information Technology in University of Moratuwa🏫
-- 👯 I’m looking to React js and zNode js related projects
+- 👯 I’m looking to React js and Node js related projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/palindamegasooriya/) | [Gmail](www.palindamegasooriya95@gmail.com)
 
@@ -33,6 +33,5 @@
   ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp&logoColor=FB7A24)
 
 ## Stats
-
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=palindamegasooriya&show_icons=true&theme=dracula" alt="palindamegasooriya" /></p>
 
