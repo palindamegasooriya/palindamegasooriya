@@ -1,7 +1,7 @@
 # Hi, I'm Palinda Megasooriya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently studying for a degree of B.Sc(hons) in Information Technology in University of Moratuwa🏫
-- 👯 I’m looking to React js and Node js related projects
+- 🌱 I’m Senior Software Quality assurence engineer with 4+ years experince with manual and automation testing🏫
+- 👯 I’m looking to Java based selenium automation projects
 - 💬 Ask me about anything
 - 📫 Email- palindamegasooriya95@gmail.com
 
